@@ -4,7 +4,7 @@ package pruebaempleado;
  * @author Luna
  */
 public class Empleado {
-    private double salario=100.99;
+    private double salario=150.99;
     private void metodoPrivado(){
         System.out.println("metodo privado");
     }
